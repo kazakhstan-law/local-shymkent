@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
+source: https://zan.gov.kz/client/#!/doc/127040/rus/28.10.2019
 ---
 
 > *Приложение 2 к решению*  
@@ -3959,13 +3959,13 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 > *от 14 декабря 2018 года*  
 > *№42/334-6с*
 
-# Бюджетные программы районов в городе на 2019-2021 годы
+## Бюджетные программы районов в городе на 2019-2021 годы
 
-> *Сноска. Приложение 5 - в редакции решения Шымкентского городского маслихата от 27.06.2019 № 51/420-6с (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 5 - в редакции решения маслихата города Шымкент от 28.10.2019 № 57/481-6с (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td>Наименование</td>
 <td rowspan="4">2019 год</td>
 <td rowspan="4">2020 год</td>
@@ -3973,33 +3973,26 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="6">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td colspan="4">1</td>
-<td>2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Всего</td>
-<td>2 078 029</td>
+<td colspan="2"></td>
+<td colspan="2">Всего</td>
+<td>2 145 086</td>
 <td>3 327 528</td>
 <td>3 328 184</td>
 </tr>
@@ -4007,9 +4000,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td>01</td>
 <td></td>
 <td></td>
-<td></td>
-<td>Государственные услуги общего характера</td>
-<td>925 764</td>
+<td colspan="2"></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>851 636</td>
 <td>458 238</td>
 <td>458 894</td>
 </tr>
@@ -4017,9 +4010,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td>1</td>
 <td></td>
-<td></td>
-<td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>925 764</td>
+<td colspan="2"></td>
+<td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
+<td>851 636</td>
 <td>458 238</td>
 <td>458 894</td>
 </tr>
@@ -4027,9 +4020,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>925 764</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>851 636</td>
 <td>458 238</td>
 <td>458 894</td>
 </tr>
@@ -4037,9 +4030,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>911 037</td>
+<td colspan="2">001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>836 909</td>
 <td>458 238</td>
 <td>458 894</td>
 </tr>
@@ -4047,9 +4040,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Абайский район</td>
-<td>208 951</td>
+<td colspan="2"></td>
+<td colspan="2">Абайский район</td>
+<td>206 331</td>
 <td>124 628</td>
 <td>124 628</td>
 </tr>
@@ -4057,9 +4050,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аль-Фарабийский район</td>
-<td>275 019</td>
+<td colspan="2"></td>
+<td colspan="2">Аль-Фарабийский район</td>
+<td>190 089</td>
 <td>109 672</td>
 <td>110 933</td>
 </tr>
@@ -4067,9 +4060,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Енбекшинский район</td>
-<td>232 713</td>
+<td colspan="2"></td>
+<td colspan="2">Енбекшинский район</td>
+<td>232 893</td>
 <td>118 929</td>
 <td>118 324</td>
 </tr>
@@ -4077,9 +4070,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Каратауский район</td>
-<td>194 354</td>
+<td colspan="2"></td>
+<td colspan="2">Каратауский район</td>
+<td>207 596</td>
 <td>105 009</td>
 <td>105 009</td>
 </tr>
@@ -4087,8 +4080,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td>022</td>
-<td>Капитальные расходы государственного органа</td>
+<td colspan="2">022</td>
+<td colspan="2">Капитальные расходы государственного органа</td>
 <td>14 727</td>
 <td>0</td>
 <td>0</td>
@@ -4097,8 +4090,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Абайский район</td>
+<td colspan="2"></td>
+<td colspan="2">Абайский район</td>
 <td>4 977</td>
 <td></td>
 <td></td>
@@ -4107,8 +4100,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аль-Фарабийский район</td>
+<td colspan="2"></td>
+<td colspan="2">Аль-Фарабийский район</td>
 <td>3 250</td>
 <td></td>
 <td></td>
@@ -4117,8 +4110,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Енбекшинский район</td>
+<td colspan="2"></td>
+<td colspan="2">Енбекшинский район</td>
 <td>3 250</td>
 <td></td>
 <td></td>
@@ -4127,8 +4120,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Каратауский район</td>
+<td colspan="2"></td>
+<td colspan="2">Каратауский район</td>
 <td>3 250</td>
 <td></td>
 <td></td>
@@ -4137,9 +4130,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td>07</td>
 <td></td>
 <td></td>
-<td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>1 125 633</td>
+<td colspan="2"></td>
+<td colspan="2">Жилищно-коммунальное хозяйство</td>
+<td>1 268 643</td>
 <td>2 840 459</td>
 <td>2 840 459</td>
 </tr>
@@ -4147,9 +4140,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td>3</td>
 <td></td>
-<td></td>
-<td>Благоустройство населенных пунктов</td>
-<td>1 125 633</td>
+<td colspan="2"></td>
+<td colspan="2">Благоустройство населенных пунктов</td>
+<td>1 268 643</td>
 <td>2 840 459</td>
 <td>2 840 459</td>
 </tr>
@@ -4157,9 +4150,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1 125 633</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>1 268 643</td>
 <td>2 840 459</td>
 <td>2 840 459</td>
 </tr>
@@ -4167,9 +4160,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td>009</td>
-<td>Обеспечение санитарии населенных пунктов</td>
-<td>891 013</td>
+<td colspan="2">009</td>
+<td colspan="2">Обеспечение санитарии населенных пунктов</td>
+<td>1 067 884</td>
 <td>1 166 805</td>
 <td>1 166 805</td>
 </tr>
@@ -4177,9 +4170,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Абайский район</td>
-<td>247 701</td>
+<td colspan="2"></td>
+<td colspan="2">Абайский район</td>
+<td>307 692</td>
 <td>412 100</td>
 <td>412 100</td>
 </tr>
@@ -4187,9 +4180,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аль-Фарабийский район</td>
-<td>145 681</td>
+<td colspan="2"></td>
+<td colspan="2">Аль-Фарабийский район</td>
+<td>140 987</td>
 <td>156 866</td>
 <td>156 866</td>
 </tr>
@@ -4197,9 +4190,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Енбекшинский район</td>
-<td>286 406</td>
+<td colspan="2"></td>
+<td colspan="2">Енбекшинский район</td>
+<td>350 396</td>
 <td>337 309</td>
 <td>337 309</td>
 </tr>
@@ -4207,9 +4200,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Каратауский район</td>
-<td>211 225</td>
+<td colspan="2"></td>
+<td colspan="2">Каратауский район</td>
+<td>268 809</td>
 <td>260 530</td>
 <td>260 530</td>
 </tr>
@@ -4217,9 +4210,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td>011</td>
-<td>Благоустройство и озеленение населенных пунктов</td>
-<td>234 620</td>
+<td colspan="2">011</td>
+<td colspan="2">Благоустройство и озеленение населенных пунктов</td>
+<td>200 759</td>
 <td>1 673 654</td>
 <td>1 673 654</td>
 </tr>
@@ -4227,9 +4220,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Абайский район</td>
-<td>73 777</td>
+<td colspan="2"></td>
+<td colspan="2">Абайский район</td>
+<td>65 285</td>
 <td>96 216</td>
 <td>96 216</td>
 </tr>
@@ -4237,9 +4230,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аль-Фарабийский район</td>
-<td>63 822</td>
+<td colspan="2"></td>
+<td colspan="2">Аль-Фарабийский район</td>
+<td>55 825</td>
 <td></td>
 <td></td>
 </tr>
@@ -4247,9 +4240,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Енбекшинский район</td>
-<td>57 662</td>
+<td colspan="2"></td>
+<td colspan="2">Енбекшинский район</td>
+<td>55 745</td>
 <td>51 796</td>
 <td>51 796</td>
 </tr>
@@ -4257,9 +4250,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Каратауский район</td>
-<td>39 359</td>
+<td colspan="2"></td>
+<td colspan="2">Каратауский район</td>
+<td>23 904</td>
 <td>1 525 642</td>
 <td>1 525 642</td>
 </tr>
@@ -4267,9 +4260,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td>08</td>
 <td></td>
 <td></td>
-<td></td>
-<td>Культура, спорт, туризм и информационное пространство</td>
-<td>26 632</td>
+<td colspan="2"></td>
+<td colspan="2">Культура, спорт, туризм и информационное пространство</td>
+<td>24 807</td>
 <td>28 831</td>
 <td>28 831</td>
 </tr>
@@ -4277,9 +4270,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td>1</td>
 <td></td>
-<td></td>
-<td>Деятельность в области культуры</td>
-<td>26 632</td>
+<td colspan="2"></td>
+<td colspan="2">Деятельность в области культуры</td>
+<td>24 807</td>
 <td>28 831</td>
 <td>28 831</td>
 </tr>
@@ -4287,9 +4280,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td>123</td>
-<td></td>
-<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>26 632</td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>24 807</td>
 <td>28 831</td>
 <td>28 831</td>
 </tr>
@@ -4297,9 +4290,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td>006</td>
-<td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>26 632</td>
+<td colspan="2">006</td>
+<td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
+<td>24 807</td>
 <td>28 831</td>
 <td>28 831</td>
 </tr>
@@ -4307,9 +4300,9 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Абайский район</td>
-<td>8 137</td>
+<td colspan="2"></td>
+<td colspan="2">Абайский район</td>
+<td>6 312</td>
 <td>8 137</td>
 <td>8 137</td>
 </tr>
@@ -4317,8 +4310,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Аль-Фарабийский район</td>
+<td colspan="2"></td>
+<td colspan="2">Аль-Фарабийский район</td>
 <td>6 727</td>
 <td>6 727</td>
 <td>6 727</td>
@@ -4327,8 +4320,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Енбекшинский район</td>
+<td colspan="2"></td>
+<td colspan="2">Енбекшинский район</td>
 <td>5 830</td>
 <td>5 830</td>
 <td>5 830</td>
@@ -4337,8 +4330,8 @@ source: https://zan.gov.kz/client/#!/doc/127040/rus/27.06.2019
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Каратауский район</td>
+<td colspan="2"></td>
+<td colspan="2">Каратауский район</td>
 <td>5 938</td>
 <td>8 137</td>
 <td>8 137</td>
