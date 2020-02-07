@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/125961/kaz/14.11.2018
+source: https://zan.gov.kz/client/#!/doc/125961/kaz/07.02.2020
 ---
 
 # Шымкент қаласының аумағында сайлау учаскелерін құру туралы
