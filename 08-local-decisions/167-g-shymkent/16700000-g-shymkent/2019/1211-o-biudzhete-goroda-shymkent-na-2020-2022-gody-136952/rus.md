@@ -16,7 +16,7 @@
 
       поступление трансфертов – 203 161 503 тысяч тенге;
 
-   2) затраты – 319 255 836 тысяч тенге;
+   2) затраты – 375 284 609 тысяч тенге;
 
    3) чистое бюджетное кредитование – - 7 608 662 тысяч тенге, в том числе:
 
@@ -28,13 +28,15 @@
 
       приобретение финансовых активов – 13 146 937 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – 17 455 991 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 40 234 009 тысяч тенге;
 
-   6) финансирование дефицита (использование профицита) бюджета – - 17 455 991 тысяч тенге.
+   6) финансирование дефицита (использование профицита) бюджета – 40 234 009 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения маслихата города Шымкент от 11.03.2020 № 62/529-6с (вводится в действие с 01.01.2020).*
+> *Сноска. Пункт 1 в редакции решения маслихата города Шымкент от 11.03.2020 № 62/529-6с (вводится в действие с 01.01.2020); в редакции решения маслихата города Шымкент от 03.04.2020 № 63/553-6с (вводится в действие с 01.01.2020).*
 
-2. Утвердить резерв акимата города на 2020 год в сумме 1 700 000 тысяч тенге.
+2. Утвердить резерв акимата города на 2020 год в сумме 2 700 000 тысяч тенге.
+
+> *Сноска. Пункт 2 в редакции решения маслихата города Шымкент от 03.04.2020 № 63/553-6с (вводится в действие с 01.01.2020).*
 
 3. Утвердить перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местных бюджетов на 2020 год, согласно приложению 4.
 
@@ -65,366 +67,363 @@
 
 ## Бюджет города Шымкент на 2020 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата города Шымкент от 11.03.2020 № 62/529-6с (вводится в действие с 01.01.2020).*
+> *Сноска. Приложение 1 в редакции решения маслихата города Шымкент от 11.03.2020 № 62/529-6с (вводится в действие с 01.01.2020); в редакции решения маслихата города Шымкент от 03.04.2020 № 63/553-6с (вводится в действие с 01.01.2020).*
 
 <table>
 <tr>
-<td colspan="2"></td>
-<td colspan="5">Категория</td>
+<td></td>
+<td colspan="6">Категория</td>
 <td>Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="4">Класс</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="4">Подкласс</td>
 <td></td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
+<td colspan="7">1</td>
 <td>2</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>I. Доходы</td>
 <td>340 588 875</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
+<td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Налоговые поступления</td>
 <td>129 256 643</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Подоходный налог</td>
 <td>32 833 550</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Корпоративный подоходный налог</td>
 <td>9 824 252</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td>Индивидуальный подоходный налог</td>
 <td>23 009 298</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td>Социальный налог</td>
 <td>19 594 668</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Социальный налог</td>
 <td>19 594 668</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td>Hалоги на собственность</td>
 <td>17 016 266</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Hалоги на имущество</td>
 <td>12 819 823</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td>Земельный налог</td>
 <td>1 099 512</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td>Hалог на транспортные средства</td>
 <td>3 094 658</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td>Единый земельный налог</td>
 <td>2 273</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>59 111 477</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td>Акцизы</td>
 <td>56 061 016</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>1 225 258</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td>Сборы за ведение предпринимательской и профессиональной деятельности</td>
 <td>1 792 285</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td>Налог на игорный бизнес</td>
 <td>32 918</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">07</td>
 <td colspan="2"></td>
 <td>Прочие налоги</td>
 <td>3 360</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Прочие налоги</td>
 <td>3 360</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">08</td>
 <td colspan="2"></td>
 <td>Обязательные платежи, взимаемые за совершение юридически значимых действий и (или) выдачу документов уполномоченными на то государственными органами или должностными лицами</td>
 <td>697 322</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Государственная пошлина</td>
 <td>697 322</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
+<td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Неналоговые поступления</td>
 <td>2 593 776</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Доходы от государственной собственности</td>
 <td>1 304 751</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Поступления части чистого дохода государственных предприятий</td>
 <td>12 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td>Дивиденды на государственные пакеты акций, находящиеся в государственной собственности</td>
 <td>50 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td>Доходы на доли участия в юридических лицах, находящиеся в государственной собственности</td>
 <td>3 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>337 267</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">7</td>
 <td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
 <td>901 394</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">9</td>
 <td>Прочие доходы от государственной собственности</td>
 <td>1 090</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан</td>
 <td>1 044 110</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Штрафы, пени, санкции, взыскания, налагаемые государственными учреждениями, финансируемыми из государственного бюджета, а также содержащимися и финансируемыми из бюджета (сметы расходов) Национального Банка Республики Казахстан, за исключением поступлений от организаций нефтяного сектора и в Фонд компенсации потерпевшим</td>
 <td>1 044 110</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">06</td>
 <td colspan="2"></td>
 <td>Прочие неналоговые поступления</td>
 <td>244 915</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Прочие неналоговые поступления</td>
 <td>244 915</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
+<td></td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Поступления от продажи основного капитала</td>
 <td>5 576 953</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>4 599 132</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Продажа государственного имущества, закрепленного за государственными учреждениями</td>
 <td>4 599 132</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td colspan="2"></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>977 821</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Продажа земли</td>
 <td>909 450</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td>Продажа нематериальных активов</td>
 <td>68 371</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>4</td>
+<td></td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Поступления трансфертов</td>
 <td>203 161 503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>203 161 503</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Трансферты из республиканского бюджета</td>
@@ -435,2955 +434,2958 @@
 <td rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="6">Функциональная подгруппа</td>
+<td></td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="4">Программа</td>
+<td colspan="3">Программа</td>
+<td colspan="2"></td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>1</td>
 <td colspan="2"></td>
+<td colspan="2">1</td>
+<td></td>
 <td colspan="2">2</td>
 <td>3</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">II. Затраты</td>
-<td>317 594 609</td>
+<td>375 284 609</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td></td>
-<td></td>
+<td>01</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Государственные услуги общего характера</td>
 <td>3 417 948</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>2 448 459</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>111</td>
 <td colspan="2"></td>
+<td colspan="2">111</td>
+<td></td>
 <td colspan="2">Аппарат маслихата города республиканского значения, столицы</td>
 <td>43 692</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности маслихата города республиканского значения, столицы</td>
 <td>43 692</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>121</td>
 <td colspan="2"></td>
+<td colspan="2">121</td>
+<td></td>
 <td colspan="2">Аппарат акима города республиканского значения, столицы</td>
 <td>1 129 712</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима города республиканского значения, столицы</td>
 <td>1 030 769</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>37 017</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>12 955</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="2">Обеспечение деятельности Ассамблеи народа Казахстана города республиканского значения, столицы</td>
 <td>48 971</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>123</td>
 <td colspan="2"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе</td>
 <td>1 082 720</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности акима района в городе</td>
 <td>1 063 593</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">022</td>
+<td colspan="2"></td>
+<td>022</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>19 127</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>379</td>
 <td colspan="2"></td>
+<td colspan="2">379</td>
+<td></td>
 <td colspan="2">Ревизионная комиссия города республиканского значения, столицы</td>
 <td>192 335</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по обеспечению деятельности ревизионной комиссии города республиканского значения, столицы</td>
 <td>192 335</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Финансовая деятельность</td>
 <td>550 012</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>356</td>
 <td colspan="2"></td>
+<td colspan="2">356</td>
+<td></td>
 <td colspan="2">Управление финансов города республиканского значения, столицы</td>
 <td>455 477</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью</td>
 <td>164 692</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Проведение оценки имущества в целях налогообложения</td>
 <td>24 442</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">014</td>
+<td colspan="2"></td>
+<td>014</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>266 343</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>366</td>
 <td colspan="2"></td>
+<td colspan="2">366</td>
+<td></td>
 <td colspan="2">Управление государственных закупок города республиканского значения, столицы</td>
 <td>94 535</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области государственных закупок на местном уровне</td>
 <td>87 219</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">002</td>
+<td colspan="2"></td>
+<td>002</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>7 316</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>5</td>
 <td></td>
+<td colspan="2">5</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Планирование и статистическая деятельность</td>
 <td>319 477</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>357</td>
 <td colspan="2"></td>
+<td colspan="2">357</td>
+<td></td>
 <td colspan="2">Управление экономики и бюджетного планирования города республиканского значения, столицы</td>
 <td>319 477</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области формирования и развития экономической политики, системы государственного планирования</td>
 <td>315 328</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>4 149</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие государственные услуги общего характера</td>
 <td>100 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
 <td>100 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">061</td>
+<td colspan="2"></td>
+<td>061</td>
 <td colspan="2">Развитие объектов государственных органов</td>
 <td>100 000</td>
 </tr>
 <tr>
-<td colspan="2">02</td>
-<td></td>
-<td></td>
+<td>02</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Оборона</td>
 <td>1 442 351</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Военные нужды</td>
 <td>156 668</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>121</td>
 <td colspan="2"></td>
+<td colspan="2">121</td>
+<td></td>
 <td colspan="2">Аппарат акима города республиканского значения, столицы</td>
 <td>156 668</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="2">Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
 <td>156 668</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Организация работы по чрезвычайным ситуациям</td>
 <td>1 285 683</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>121</td>
 <td colspan="2"></td>
+<td colspan="2">121</td>
+<td></td>
 <td colspan="2">Аппарат акима города республиканского значения, столицы</td>
 <td>117 171</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">014</td>
+<td colspan="2"></td>
+<td>014</td>
 <td colspan="2">Предупреждение и ликвидация чрезвычайных ситуаций масштаба города республиканского значения, столицы</td>
 <td>117 171</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>387</td>
 <td colspan="2"></td>
+<td colspan="2">387</td>
+<td></td>
 <td colspan="2">Территориальный орган, уполномоченных органов в области чрезвычайных ситуаций природного и техногенного характера, Гражданской обороны, финансируемый из бюджета города республиканского значения, столицы</td>
 <td>418 512</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы территориального органа и подведомственных государственных учреждений</td>
 <td>418 512</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
 <td>750 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">030</td>
+<td colspan="2"></td>
+<td>030</td>
 <td colspan="2">Развитие объектов мобилизационной подготовки и чрезвычайных ситуаций</td>
 <td>750 000</td>
 </tr>
 <tr>
-<td colspan="2">03</td>
-<td></td>
-<td></td>
+<td>03</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Общественный порядок, безопасность, правовая, судебная, уголовно-исполнительная деятельность</td>
 <td>9 406 315</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Правоохранительная деятельность</td>
 <td>8 426 220</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>352</td>
 <td colspan="2"></td>
+<td colspan="2">352</td>
+<td></td>
 <td colspan="2">Исполнительный орган внутренних дел, финансируемый из бюджета города республиканского значения, столицы</td>
 <td>8 426 220</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области обеспечения охраны общественного порядка и безопасности на территории города республиканского значения, столицы</td>
 <td>7 034 353</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Поощрение граждан, участвующих в охране общественного порядка</td>
 <td>2 412</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>1 389 455</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области общественного порядка и безопасности</td>
 <td>980 095</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>329</td>
 <td colspan="2"></td>
+<td colspan="2">329</td>
+<td></td>
 <td colspan="2">Управление по делам семьи, детей и молодежи города республиканского значения, столицы</td>
 <td>478 655</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в сфере укрепления института семьи, гендерного равенства и защиты прав и законных интересов женщин, детей и молодежи</td>
 <td>236 565</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>1 719</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Реализация мероприятий в сфере молодежной политики</td>
 <td>211 378</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>28 993</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>348</td>
 <td colspan="2"></td>
+<td colspan="2">348</td>
+<td></td>
 <td colspan="2">Управление пассажирского транспорта и автомобильных дорог города республиканского значения, столицы</td>
 <td>501 440</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Обеспечение безопасности дорожного движения в населенных пунктах</td>
 <td>501 440</td>
 </tr>
 <tr>
-<td colspan="2">04</td>
-<td></td>
-<td></td>
+<td>04</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Образование</td>
-<td>117 780 555</td>
+<td>118 794 067</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Дошкольное воспитание и обучение</td>
 <td>25 135 053</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
 <td>25 135 053</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">034</td>
+<td colspan="2"></td>
+<td>034</td>
 <td colspan="2">Обеспечение деятельности организаций дошкольного воспитания и обучения</td>
 <td>979 333</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">036</td>
+<td colspan="2"></td>
+<td>036</td>
 <td colspan="2">Реализация государственного образовательного заказа в дошкольных организациях образования</td>
 <td>24 155 720</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Начальное, основное среднее и общее среднее образование</td>
-<td>73 820 708</td>
+<td>74 720 472</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
-<td>60 965 007</td>
+<td>60 932 408</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Общеобразовательное обучение</td>
 <td>54 968 211</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Общеобразовательное обучение по специальным образовательным программам</td>
-<td>1 814 080</td>
+<td>1 781 481</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Общеобразовательное обучение одаренных детей в специализированных организациях образования</td>
 <td>2 416 257</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Дополнительное образование для детей</td>
 <td>1 766 459</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
-<td>7 529 113</td>
+<td>8 461 476</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">028</td>
+<td colspan="2"></td>
+<td>028</td>
 <td colspan="2">Строительство и реконструкция объектов начального, основного среднего и общего среднего образования</td>
-<td>7 109 113</td>
+<td>8 041 476</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">069</td>
+<td colspan="2"></td>
+<td>069</td>
 <td colspan="2">Строительство и реконструкция объектов дополнительного образования</td>
 <td>420 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>381</td>
 <td colspan="2"></td>
+<td colspan="2">381</td>
+<td></td>
 <td colspan="2">Управление физической культуры и спорта города республиканского значения, столицы</td>
 <td>5 326 588</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Дополнительное образование для детей и юношества по спорту</td>
 <td>5 326 588</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>4</td>
 <td></td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Техническое и профессиональное, послесреднее образование</td>
 <td>6 042 099</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>353</td>
 <td colspan="2"></td>
+<td colspan="2">353</td>
+<td></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
 <td>324 878</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">043</td>
+<td colspan="2"></td>
+<td>043</td>
 <td colspan="2">Подготовка специалистов в организациях технического и профессионального, послесреднего образования</td>
 <td>315 806</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">044</td>
+<td colspan="2"></td>
+<td>044</td>
 <td colspan="2">Оказание социальной поддержки обучающимся по программам технического и профессионального, послесреднего образования</td>
 <td>9 072</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
 <td>5 717 221</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">024</td>
+<td colspan="2"></td>
+<td>024</td>
 <td colspan="2">Подготовка специалистов в организациях технического и профессионального образования</td>
 <td>5 717 221</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>5</td>
 <td></td>
+<td colspan="2">5</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Переподготовка и повышение квалификации специалистов</td>
 <td>2 721 356</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>121</td>
 <td colspan="2"></td>
+<td colspan="2">121</td>
+<td></td>
 <td colspan="2">Аппарат акима города республиканского значения, столицы</td>
 <td>8 247</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">019</td>
+<td colspan="2"></td>
+<td>019</td>
 <td colspan="2">Обучение участников избирательного процесса</td>
 <td>8 247</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
-<td colspan="2">За счет средств местного бюджета</td>
-<td>8 247</td>
-</tr>
-<tr>
-<td colspan="2"></td>
+<td colspan="2">353</td>
 <td></td>
-<td>353</td>
-<td colspan="2"></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
 <td>211 912</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Повышение квалификации и переподготовка кадров</td>
 <td>211 912</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
 <td>2 501 197</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">038</td>
+<td colspan="2"></td>
+<td>038</td>
 <td colspan="2">Повышение квалификации, подготовка и переподготовка кадров в рамках Государственной программы развития продуктивной занятости и массового предпринимательства на 2017 – 2021 годы «Еңбек»</td>
 <td>2 501 197</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>6</td>
 <td></td>
+<td colspan="2">6</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Высшее и послевузовское образование</td>
 <td>312 488</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
 <td>312 488</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">057</td>
+<td colspan="2"></td>
+<td>057</td>
 <td colspan="2">Подготовка специалистов с высшим, послевузовским образованием и оказание социальной поддержки обучающимся</td>
 <td>312 488</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области образования</td>
-<td>9 748 851</td>
+<td>9 862 599</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>329</td>
 <td colspan="2"></td>
+<td colspan="2">329</td>
+<td></td>
 <td colspan="2">Управление по делам семьи, детей и молодежи города республиканского значения, столицы</td>
 <td>218 851</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">021</td>
+<td colspan="2"></td>
+<td>021</td>
 <td colspan="2">Ежемесячные выплаты денежных средств опекунам (попечителям) на содержание ребенка-сироты (детей-сирот), и ребенка (детей), оставшегося без попечения родителей</td>
 <td>216 863</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">027</td>
+<td colspan="2"></td>
+<td>027</td>
 <td colspan="2">Выплата единовременных денежных средств казахстанским гражданам, усыновившим (удочерившим) ребенка (детей)-сироту и ребенка (детей), оставшегося без попечения родителей</td>
 <td>1 988</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
-<td>9 530 000</td>
+<td>9 643 748</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области образования</td>
 <td>367 620</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Приобретение и доставка учебников, учебно-методических комплексов для государственных учреждений образования города республиканского значения, столицы</td>
 <td>1 132 088</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Проведение школьных олимпиад, внешкольных мероприятий и конкурсов масштаба города республиканского значения, столицы</td>
 <td>76 937</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">011</td>
+<td colspan="2"></td>
+<td>011</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>4 315</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="2">Обследование психического здоровья детей и подростков и оказание психолого-медико-педагогической консультативной помощи населению</td>
 <td>198 060</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">014</td>
+<td colspan="2"></td>
+<td>014</td>
 <td colspan="2">Реабилитация и социальная адаптация детей и подростков с проблемами в развитии</td>
 <td>207 046</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">029</td>
+<td colspan="2"></td>
+<td>029</td>
 <td colspan="2">Методическая работа</td>
 <td>126 763</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">067</td>
+<td colspan="2"></td>
+<td>067</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>7 417 171</td>
+<td>7 530 919</td>
 </tr>
 <tr>
-<td colspan="2">05</td>
-<td></td>
-<td></td>
+<td>05</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Здравоохранение</td>
-<td>11 432 866</td>
+<td>11 963 822</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Охрана здоровья населения</td>
 <td>1 133 566</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>353</td>
 <td colspan="2"></td>
+<td colspan="2">353</td>
+<td></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
 <td>1 106 566</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Услуги по охране материнства и детства</td>
 <td>194 580</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Пропаганда здорового образа жизни</td>
 <td>129 669</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">041</td>
+<td colspan="2"></td>
+<td>041</td>
 <td colspan="2">Дополнительное обеспечение гарантированного объема бесплатной медицинской помощи по решению местных представительных органов города республиканского значения, столицы</td>
 <td>782 188</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">042</td>
+<td colspan="2"></td>
+<td>042</td>
 <td colspan="2">Проведение медицинской организацией мероприятий, снижающих половое влечение, осуществляемые на основании решения суда</td>
 <td>129</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
 <td>27 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">038</td>
+<td colspan="2"></td>
+<td>038</td>
 <td colspan="2">Строительство и реконструкция объектов здравоохранения</td>
 <td>27 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td colspan="2">03</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Специализированная медицинская помощь</td>
 <td>2 405 782</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>353</td>
 <td colspan="2"></td>
+<td colspan="2">353</td>
+<td></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
 <td>2 405 782</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">027</td>
+<td colspan="2"></td>
+<td>027</td>
 <td colspan="2">Централизованный закуп и хранение вакцин и других медицинских иммунобиологических препаратов для проведения иммунопрофилактики населения</td>
 <td>2 405 782</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области здравоохранения</td>
-<td>7 893 518</td>
+<td>8 424 474</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>353</td>
 <td colspan="2"></td>
+<td colspan="2">353</td>
+<td></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
-<td>7 893 518</td>
+<td>8 424 474</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области здравоохранения</td>
 <td>130 686</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Реализация мероприятий по профилактике и борьбе со СПИД в Республике Казахстан</td>
 <td>133 349</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">016</td>
+<td colspan="2"></td>
+<td>016</td>
 <td colspan="2">Обеспечение граждан бесплатным или льготным проездом за пределы населенного пункта на лечение</td>
 <td>30 529</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">018</td>
+<td colspan="2"></td>
+<td>018</td>
 <td colspan="2">Информационно-аналитические услуги в области здравоохранения</td>
 <td>39 865</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">030</td>
+<td colspan="2"></td>
+<td>030</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>12 155</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">033</td>
+<td colspan="2"></td>
+<td>033</td>
 <td colspan="2">Капитальные расходы медицинских организаций здравоохранения</td>
-<td>7 546 934</td>
+<td>8 077 890</td>
 </tr>
 <tr>
-<td colspan="2">06</td>
-<td></td>
-<td></td>
+<td>06</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
 <td>32 324 422</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Социальное обеспечение</td>
 <td>2 539 594</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>329</td>
 <td colspan="2"></td>
+<td colspan="2">329</td>
+<td></td>
 <td colspan="2">Управление по делам семьи, детей и молодежи города республиканского значения, столицы</td>
 <td>492 254</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
+<td colspan="2"></td>
+<td>015</td>
 <td colspan="2">Социальное обеспечение сирот, детей, оставшихся без попечения родителей</td>
 <td>385 674</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">037</td>
+<td colspan="2"></td>
+<td>037</td>
 <td colspan="2">Социальная реабилитация</td>
 <td>106 580</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>333</td>
 <td colspan="2"></td>
+<td colspan="2">333</td>
+<td></td>
 <td colspan="2">Управление занятости и социальной защиты города республиканского значения, столицы</td>
 <td>2 027 340</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">002</td>
+<td colspan="2"></td>
+<td>002</td>
 <td colspan="2">Предоставление специальных социальных услуг для престарелых и инвалидов в медико-социальных учреждениях (организациях) общего типа, в центрах оказания специальных социальных услуг, в центрах социального обслуживания</td>
 <td>651 901</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">020</td>
+<td colspan="2"></td>
+<td>020</td>
 <td colspan="2">Предоставление специальных социальных услуг для инвалидов с психоневрологическими заболеваниями, в психоневрологических медико-социальных учреждениях (организациях), в центрах оказания специальных социальных услуг, в центрах социального обслуживания</td>
 <td>683 973</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">022</td>
+<td colspan="2"></td>
+<td>022</td>
 <td colspan="2">Предоставление специальных социальных услуг для детей-инвалидов с психоневрологическими патологиями в детских психоневрологических медико-социальных учреждениях (организациях), в центрах оказания специальных социальных услуг, в центрах социального обслуживания</td>
 <td>691 466</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
 <td>20 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">039</td>
+<td colspan="2"></td>
+<td>039</td>
 <td colspan="2">Строительство и реконструкция объектов социального обеспечения</td>
 <td>20 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Социальная помощь</td>
 <td>26 955 506</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>333</td>
 <td colspan="2"></td>
+<td colspan="2">333</td>
+<td></td>
 <td colspan="2">Управление занятости и социальной защиты города республиканского значения, столицы</td>
 <td>26 955 506</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Программа занятости</td>
 <td>2 450 615</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Государственная адресная социальная помощь</td>
 <td>20 779 486</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Оказание жилищной помощи</td>
 <td>30 114</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
 <td>1 566 731</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Социальная поддержка инвалидов</td>
 <td>1 037 683</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
+<td colspan="2"></td>
+<td>015</td>
 <td colspan="2">Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами, предоставление социальных услуг индивидуального помощника для инвалидов первой группы, имеющих затруднение в передвижении, и специалиста жестового языка для инвалидов по слуху в соответствии с индивидуальной программой реабилитации инвалида</td>
 <td>559 387</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">016</td>
+<td colspan="2"></td>
+<td>016</td>
 <td colspan="2">Социальная адаптация лиц, не имеющих определенного местожительства</td>
 <td>145 349</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">030</td>
+<td colspan="2"></td>
+<td>030</td>
 <td colspan="2">Обеспечение деятельности центров занятости</td>
 <td>386 141</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области социальной помощи и социального обеспечения</td>
 <td>2 829 322</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>333</td>
 <td colspan="2"></td>
+<td colspan="2">333</td>
+<td></td>
 <td colspan="2">Управление занятости и социальной защиты города республиканского значения, столицы</td>
 <td>2 611 279</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области обеспечения занятости и реализации социальных программ для населения на местном уровне</td>
 <td>371 119</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="2">Оплата услуг по зачислению, выплате и доставке пособий и других социальных выплат</td>
 <td>8 063</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">019</td>
+<td colspan="2"></td>
+<td>019</td>
 <td colspan="2">Размещение государственного социального заказа в неправительственных организациях</td>
 <td>114 595</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">026</td>
+<td colspan="2"></td>
+<td>026</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>8 455</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">028</td>
+<td colspan="2"></td>
+<td>028</td>
 <td colspan="2">Услуги лицам из групп риска, попавшим в сложную ситуацию вследствие насилия или угрозы насилия</td>
 <td>132 481</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>54 772</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">045</td>
+<td colspan="2"></td>
+<td>045</td>
 <td colspan="2">Обеспечение прав и улучшение качества жизни инвалидов в Республике Казахстан</td>
 <td>1 890 189</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">053</td>
+<td colspan="2"></td>
+<td>053</td>
 <td colspan="2">Услуги по замене и настройке речевых процессоров к кохлеарным имплантам</td>
 <td>31 605</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>383</td>
 <td colspan="2"></td>
+<td colspan="2">383</td>
+<td></td>
 <td colspan="2">Управление жилья и жилищной инспекции города республиканского значения, столицы</td>
 <td>100 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">068</td>
+<td colspan="2"></td>
+<td>068</td>
 <td colspan="2">Предоставление жилищных сертификатов как социальная помощь</td>
 <td>100 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>388</td>
 <td colspan="2"></td>
+<td colspan="2">388</td>
+<td></td>
 <td colspan="2">Управление государственной инспекции труда и миграции города республиканского значения, столицы</td>
 <td>118 043</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области миграции и регулирования трудовых отношений на местном уровне</td>
 <td>87 321</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>1 179</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Реализация миграционных мероприятий на местном уровне</td>
 <td>29 543</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
-<td></td>
-<td></td>
+<td>07</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>61 509 721</td>
+<td>98 017 691</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Жилищное хозяйство</td>
-<td>32 376 940</td>
+<td>61 438 127</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>351</td>
 <td colspan="2"></td>
+<td colspan="2">351</td>
+<td></td>
 <td colspan="2">Управление земельных отношений города республиканского значения, столицы</td>
 <td>3 724 182</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="2">Изъятие, в том числе путем выкупа земельных участков для государственных надобностей и связанное с этим отчуждение недвижимого имущества</td>
 <td>3 724 182</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
-<td>3 941 511</td>
+<td>4 363 657</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>3 210 067</td>
+<td>3 357 123</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">025</td>
+<td colspan="2"></td>
+<td>025</td>
 <td colspan="2">Мероприятия, направленные на поддержание сейсмоустойчивости жилых зданий, расположенных в сейсмоопасных регионах Республики Казахстан</td>
-<td>731 444</td>
+<td>1 006 534</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
-<td>24 502 568</td>
+<td>53 126 459</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">012</td>
+<td colspan="2"></td>
+<td>012</td>
 <td colspan="2">Проектирование и (или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td>14 350 634</td>
+<td>39 538 605</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">017</td>
+<td colspan="2"></td>
+<td>017</td>
 <td colspan="2">Проектирование, развитие и (или) обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>2 061 287</td>
+<td>5 497 207</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">035</td>
+<td colspan="2"></td>
+<td>035</td>
 <td colspan="2">Развитие объектов сельского хозяйства</td>
 <td>62 279</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">098</td>
+<td colspan="2"></td>
+<td>098</td>
 <td colspan="2">Приобретение жилья коммунального жилищного фонда</td>
 <td>8 028 368</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>383</td>
 <td colspan="2"></td>
+<td colspan="2">383</td>
+<td></td>
 <td colspan="2">Управление жилья и жилищной инспекции города республиканского значения, столицы</td>
-<td>208 679</td>
+<td>223 829</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики по вопросам жилья, в области жилищного фонда на местном уровне</td>
-<td>196 218</td>
+<td>211 368</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>12 461</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Коммунальное хозяйство</td>
-<td>11 982 962</td>
+<td>19 032 237</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
-<td>10 137 693</td>
+<td>16 672 859</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области энергетики и коммунального хозяйства</td>
 <td>162 585</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Развитие коммунального хозяйства</td>
-<td>3 268 583</td>
+<td>4 230 386</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Развитие системы водоснабжения и водоотведения</td>
-<td>5 223 619</td>
+<td>10 419 853</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">016</td>
+<td colspan="2"></td>
+<td>016</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>3 018</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td>019</td>
+<td colspan="2">Развитие благоустройства города</td>
+<td>377 129</td>
+</tr>
+<tr>
 <td></td>
-<td></td>
-<td colspan="2">028</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>028</td>
 <td colspan="2">Организация эксплуатации тепловых сетей, находящихся в коммунальной собственности города республиканского значения, столицы</td>
 <td>1 479 888</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
-<td>1 845 269</td>
+<td>2 359 378</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="2">Развитие благоустройства города</td>
-<td>1 845 269</td>
+<td>2 359 378</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Благоустройство населенных пунктов</td>
-<td>17 149 819</td>
+<td>17 547 327</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>123</td>
 <td colspan="2"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе</td>
 <td>5 218 307</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
 <td>1 304 226</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">011</td>
+<td colspan="2"></td>
+<td>011</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
 <td>3 914 081</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>349</td>
 <td colspan="2"></td>
+<td colspan="2">349</td>
+<td></td>
 <td colspan="2">Управление сельского хозяйства и ветеринарии города республиканского значения, столицы</td>
 <td>159 664</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
 <td>159 664</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
-<td>11 771 848</td>
+<td>12 169 356</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">037</td>
+<td colspan="2"></td>
+<td>037</td>
 <td colspan="2">Освещение улиц населенных пунктов</td>
 <td>905 903</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">038</td>
+<td colspan="2"></td>
+<td>038</td>
 <td colspan="2">Обеспечение санитарии населенных пунктов</td>
 <td>3 565 800</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">047</td>
+<td colspan="2"></td>
+<td>047</td>
 <td colspan="2">Содержание мест захоронений и погребение безродных</td>
 <td>101 200</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">048</td>
+<td colspan="2"></td>
+<td>048</td>
 <td colspan="2">Благоустройство и озеленение населенных пунктов</td>
-<td>7 198 945</td>
+<td>7 596 453</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
-<td></td>
-<td></td>
+<td>08</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Культура, спорт, туризм и информационное пространство</td>
-<td>22 277 610</td>
+<td>24 699 780</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Деятельность в области культуры</td>
-<td>6 660 925</td>
+<td>8 494 453</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>123</td>
 <td colspan="2"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе</td>
 <td>110 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
 <td>110 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>312</td>
 <td colspan="2"></td>
+<td colspan="2">312</td>
+<td></td>
 <td colspan="2">Управление культуры, развития языков и архивов города республиканского значения, столицы</td>
-<td>6 438 340</td>
+<td>6 484 667</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области культуры, развития языков и архивов города</td>
 <td>95 269</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Развитие государственного языка и других языков народа Казахстана</td>
 <td>48 590</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Обеспечение сохранности историко-культурного наследия и доступа к ним</td>
 <td>1 880 818</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Поддержка культурно-досуговой работы</td>
 <td>2 011 920</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Поддержка театрального и музыкального искусства</td>
 <td>905 768</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="2">Обеспечение функционирования зоопарков и дендропарков</td>
 <td>277 677</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">011</td>
+<td colspan="2"></td>
+<td>011</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>2 405</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>1 215 893</td>
+<td>1 262 220</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
-<td>112 585</td>
+<td>1 899 786</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">014</td>
+<td colspan="2"></td>
+<td>014</td>
 <td colspan="2">Развитие объектов культуры</td>
-<td>112 585</td>
+<td>1 899 786</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Спорт</td>
-<td>11 998 591</td>
+<td>12 587 233</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>123</td>
 <td colspan="2"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе</td>
 <td>10 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">028</td>
+<td colspan="2"></td>
+<td>028</td>
 <td colspan="2">Реализация физкультурно-оздоровительных и спортивных мероприятий на местном уровне</td>
 <td>10 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
-<td>720 000</td>
+<td>1 108 023</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
+<td colspan="2"></td>
+<td>015</td>
 <td colspan="2">Развитие объектов спорта</td>
-<td>720 000</td>
+<td>1 108 023</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>381</td>
 <td colspan="2"></td>
+<td colspan="2">381</td>
+<td></td>
 <td colspan="2">Управление физической культуры и спорта города республиканского значения, столицы</td>
-<td>11 268 591</td>
+<td>11 469 210</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в сфере физической культуры и спорта</td>
 <td>87 718</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">002</td>
+<td colspan="2"></td>
+<td>002</td>
 <td colspan="2">Проведение спортивных соревнований на местном уровне</td>
 <td>186 680</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Подготовка и участие членов сборных команд по различным видам спорта на республиканских и международных спортивных соревнованиях</td>
 <td>10 778 121</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>1 792</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>214 280</td>
+<td>414 899</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Информационное пространство</td>
 <td>2 568 108</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>312</td>
 <td colspan="2"></td>
+<td colspan="2">312</td>
+<td></td>
 <td colspan="2">Управление культуры, развития языков и архивов города республиканского значения, столицы</td>
 <td>689 409</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Обеспечение функционирования городских библиотек</td>
 <td>614 469</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Обеспечение сохранности архивного фонда</td>
 <td>74 940</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>313</td>
 <td colspan="2"></td>
+<td colspan="2">313</td>
+<td></td>
 <td colspan="2">Управление цифровизации города республиканского значения, столицы</td>
 <td>528 948</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области цифровизации</td>
 <td>277 769</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>251 179</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>328</td>
 <td colspan="2"></td>
+<td colspan="2">328</td>
+<td></td>
 <td colspan="2">Управление внутренней политики и по делам религии города республиканского значения, столицы</td>
 <td>1 349 751</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Услуги по проведению государственной информационной политики</td>
 <td>1 349 751</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>4</td>
 <td></td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Туризм</td>
 <td>393 667</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>380</td>
 <td colspan="2"></td>
+<td colspan="2">380</td>
+<td></td>
 <td colspan="2">Управление туризма города республиканского значения, столицы</td>
 <td>393 667</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в сфере туризма</td>
 <td>374 033</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>19 634</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги по организации культуры, спорта, туризма и информационного пространства</td>
 <td>656 319</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>328</td>
 <td colspan="2"></td>
+<td colspan="2">328</td>
+<td></td>
 <td colspan="2">Управление внутренней политики и по делам религии города республиканского значения, столицы</td>
 <td>656 319</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики по вопросам религиозной деятельности и внутренней политики на местном уровне</td>
 <td>605 147</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>8 422</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Изучение и анализ религиозной ситуации в регионе</td>
 <td>36 724</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>6 026</td>
 </tr>
 <tr>
-<td colspan="2">09</td>
-<td></td>
-<td></td>
+<td>09</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Топливно-энергетический комплекс и недропользование</td>
-<td>8 996 221</td>
+<td>16 184 982</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Топливо и энергетика</td>
-<td>5 219 967</td>
+<td>7 490 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
-<td>5 219 967</td>
+<td>7 490 500</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">012</td>
+<td colspan="2"></td>
+<td>012</td>
 <td colspan="2">Развитие теплоэнергетической системы</td>
-<td>5 219 967</td>
+<td>7 490 500</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области топливно-энергетического комплекса и недропользования</td>
-<td>3 776 254</td>
+<td>8 694 482</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
-<td>3 776 254</td>
+<td>8 694 482</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">029</td>
+<td colspan="2"></td>
+<td>029</td>
 <td colspan="2">Развитие газотранспортной системы</td>
-<td>3 776 254</td>
+<td>8 694 482</td>
 </tr>
 <tr>
-<td colspan="2">10</td>
-<td></td>
-<td></td>
+<td>10</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>8 409 489</td>
+<td>9 053 091</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Сельское хозяйство</td>
-<td>4 824 173</td>
+<td>5 467 775</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>349</td>
 <td colspan="2"></td>
+<td colspan="2">349</td>
+<td></td>
 <td colspan="2">Управление сельского хозяйства и ветеринарии города республиканского значения, столицы</td>
-<td>4 824 173</td>
+<td>5 467 775</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в сфере сельского хозяйства и ветеринарии</td>
 <td>205 528</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">002</td>
+<td colspan="2"></td>
+<td>002</td>
 <td colspan="2">Поддержка семеноводства</td>
 <td>5 885</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>3 458</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Субсидирование стоимости пестицидов, биоагентов (энтомофагов), предназначенных для проведения обработки против вредных и особо опасных вредных организмов с численностью выше экономического порога вредоносности и карантинных объектов</td>
 <td>600</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Организация санитарного убоя больных животных</td>
 <td>454</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="2">Обеспечение функционирования скотомогильников (биотермических ям)</td>
 <td>876</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">016</td>
+<td colspan="2"></td>
+<td>016</td>
 <td colspan="2">Проведение противоэпизоотических мероприятий</td>
 <td>129 721</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">017</td>
+<td colspan="2"></td>
+<td>017</td>
 <td colspan="2">Проведение ветеринарных мероприятий по энзоотическим болезням животных</td>
 <td>39 447</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">018</td>
+<td colspan="2"></td>
+<td>018</td>
 <td colspan="2">Проведение мероприятий по идентификации сельскохозяйственных животных</td>
 <td>1 178</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">021</td>
+<td colspan="2"></td>
+<td>021</td>
 <td colspan="2">Мероприятия по борьбе с вредными организмами сельскохозяйственных культур</td>
 <td>5 430</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">025</td>
+<td colspan="2"></td>
+<td>025</td>
 <td colspan="2">Организация отлова и уничтожения бродячих собак и кошек</td>
 <td>130 800</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">028</td>
+<td colspan="2"></td>
+<td>028</td>
 <td colspan="2">Обеспечение функционирования водохозяйственных сооружений, находящихся в коммунальной собственности</td>
-<td>39 069</td>
+<td>682 671</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">029</td>
+<td colspan="2"></td>
+<td>029</td>
 <td colspan="2">Услуги по транспортировке ветеринарных препаратов до пункта временного хранения</td>
 <td>10 400</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">030</td>
+<td colspan="2"></td>
+<td>030</td>
 <td colspan="2">Централизованный закуп ветеринарных препаратов по профилактике и диагностике энзоотических болезней животных, услуг по их профилактике и диагностике, организация их хранения и транспортировки (доставки)</td>
 <td>21 539</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">033</td>
+<td colspan="2"></td>
+<td>033</td>
 <td colspan="2">Возмещение владельцам стоимости обезвреженных (обеззараженных) и переработанных без изъятия животных, продукции и сырья животного происхождения, представляющих опасность для здоровья животных и человека</td>
 <td>3 830</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">044</td>
+<td colspan="2"></td>
+<td>044</td>
 <td colspan="2">Субсидирование стоимости удобрений (за исключением органических)</td>
 <td>105 146</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">050</td>
+<td colspan="2"></td>
+<td>050</td>
 <td colspan="2">Возмещение части расходов, понесенных субъектом агропромышленного комплекса, при инвестиционных вложениях</td>
 <td>2 280 593</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">053</td>
+<td colspan="2"></td>
+<td>053</td>
 <td colspan="2">Субсидирование развития племенного животноводства, повышение продуктивности и качества продукции животноводства</td>
 <td>1 140 687</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">054</td>
+<td colspan="2"></td>
+<td>054</td>
 <td colspan="2">Субсидирование заготовительным организациям в сфере агропромышленного комплекса суммы налога на добавленную стоимость, уплаченного в бюджет, в пределах исчисленного налога на добавленную стоимость</td>
 <td>20 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">056</td>
+<td colspan="2"></td>
+<td>056</td>
 <td colspan="2">Субсидирование ставок вознаграждения при кредитовании, а также лизинге на приобретение сельскохозяйственных животных, техники и технологического оборудования</td>
 <td>500 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">057</td>
+<td colspan="2"></td>
+<td>057</td>
 <td colspan="2">Субсидирование затрат перерабатывающих предприятий на закуп сельскохозяйственной продукции для производства продуктов ее глубокой переработки в сфере животноводства</td>
 <td>164 368</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">059</td>
+<td colspan="2"></td>
+<td>059</td>
 <td colspan="2">Субсидирование затрат ревизионных союзов сельскохозяйственных кооперативов на проведение внутреннего аудита сельскохозяйственных кооперативов</td>
 <td>15 164</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Лесное хозяйство</td>
 <td>618 468</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>354</td>
 <td colspan="2"></td>
+<td colspan="2">354</td>
+<td></td>
 <td colspan="2">Управление природных ресурсов и регулирования природопользования города республиканского значения, столицы</td>
 <td>618 468</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">021</td>
+<td colspan="2"></td>
+<td>021</td>
 <td colspan="2">Охрана, защита, воспроизводство лесов и лесоразведение</td>
 <td>618 468</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>5</td>
 <td></td>
+<td colspan="2">5</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Охрана окружающей среды</td>
 <td>803 922</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>354</td>
 <td colspan="2"></td>
+<td colspan="2">354</td>
+<td></td>
 <td colspan="2">Управление природных ресурсов и регулирования природопользования города республиканского значения, столицы</td>
 <td>803 922</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в сфере охраны окружающей среды на местном уровне</td>
 <td>58 321</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">004</td>
+<td colspan="2"></td>
+<td>004</td>
 <td colspan="2">Мероприятия по охране окружающей среды</td>
 <td>51 506</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Содержание и защита особо охраняемых природных территорий</td>
 <td>288 987</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">012</td>
+<td colspan="2"></td>
+<td>012</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>15 645</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>389 463</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>6</td>
 <td></td>
+<td colspan="2">6</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Земельные отношения</td>
 <td>202 389</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>351</td>
 <td colspan="2"></td>
+<td colspan="2">351</td>
+<td></td>
 <td colspan="2">Управление земельных отношений города республиканского значения, столицы</td>
 <td>202 389</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в области регулирования земельных отношений на территории города республиканского значения, столицы</td>
 <td>182 573</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>19 816</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в области сельского, водного, лесного, рыбного хозяйства, охраны окружающей среды и земельных отношений</td>
 <td>1 960 537</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>349</td>
 <td colspan="2"></td>
+<td colspan="2">349</td>
+<td></td>
 <td colspan="2">Управление сельского хозяйства и ветеринарии города республиканского значения, столицы</td>
 <td>1 960 537</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">023</td>
+<td colspan="2"></td>
+<td>023</td>
 <td colspan="2">Формирование региональных стабилизационных фондов продовольственных товаров</td>
 <td>1 960 537</td>
 </tr>
 <tr>
-<td colspan="2">11</td>
-<td></td>
-<td></td>
+<td>11</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Промышленность, архитектурная, градостроительная и строительная деятельность</td>
 <td>493 530</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>2</td>
 <td></td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Архитектурная, градостроительная и строительная деятельность</td>
 <td>493 530</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>324</td>
 <td colspan="2"></td>
+<td colspan="2">324</td>
+<td></td>
 <td colspan="2">Управление градостроительного контроля города республиканского значения, столицы</td>
 <td>103 205</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в сфере градостроительного и земельного контроля</td>
 <td>99 138</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>4 067</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>365</td>
 <td colspan="2"></td>
+<td colspan="2">365</td>
+<td></td>
 <td colspan="2">Управление архитектуры и градостроительства города республиканского значения, столицы</td>
 <td>214 978</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в сфере архитектуры и градостроительства на местном уровне</td>
 <td>205 096</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>9 882</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>373</td>
 <td colspan="2"></td>
+<td colspan="2">373</td>
+<td></td>
 <td colspan="2">Управление строительства города республиканского значения, столицы</td>
 <td>175 347</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области строительства</td>
 <td>166 202</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>9 145</td>
 </tr>
 <tr>
-<td colspan="2">12</td>
-<td></td>
-<td></td>
+<td>12</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Транспорт и коммуникации</td>
-<td>23 725 543</td>
+<td>32 108 572</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Автомобильный транспорт</td>
-<td>19 055 473</td>
+<td>25 434 517</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>348</td>
 <td colspan="2"></td>
+<td colspan="2">348</td>
+<td></td>
 <td colspan="2">Управление пассажирского транспорта и автомобильных дорог города республиканского значения, столицы</td>
-<td>19 055 473</td>
+<td>25 434 517</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">007</td>
+<td colspan="2"></td>
+<td>007</td>
 <td colspan="2">Развитие транспортной инфраструктуры</td>
-<td>8 369 137</td>
+<td>8 929 462</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">010</td>
+<td colspan="2"></td>
+<td>010</td>
 <td colspan="2">Капитальный и средний ремонт автомобильных дорог улиц населенных пунктов</td>
-<td>9 606 336</td>
+<td>15 425 055</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">016</td>
+<td colspan="2"></td>
+<td>016</td>
 <td colspan="2">Обеспечение функционирования автомобильных дорог</td>
 <td>1 080 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие услуги в сфере транспорта и коммуникаций</td>
-<td>4 670 070</td>
+<td>6 674 055</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>348</td>
 <td colspan="2"></td>
+<td colspan="2">348</td>
+<td></td>
 <td colspan="2">Управление пассажирского транспорта и автомобильных дорог города республиканского значения, столицы</td>
-<td>4 670 070</td>
+<td>6 674 055</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики в сфере пассажирского транспорта и автомобильных дорог на местном уровне</td>
-<td>197 241</td>
+<td>199 241</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
-<td>5 764</td>
+<td>7 749</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Обеспечение мониторинга и контроля работ общественного транспорта</td>
 <td>91 094</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">009</td>
+<td colspan="2"></td>
+<td>009</td>
 <td colspan="2">Субсидирование пассажирских перевозок по социально значимым внутренним сообщениям</td>
-<td>4 361 721</td>
+<td>6 361 721</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">032</td>
+<td colspan="2"></td>
+<td>032</td>
 <td colspan="2">Капитальные расходы подведомственных государственных учреждений и организаций</td>
 <td>14 250</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td></td>
-<td></td>
+<td>13</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие</td>
-<td>14 095 283</td>
+<td>15 095 283</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Регулирование экономической деятельности</td>
 <td>57 059</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
 <td>57 059</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">040</td>
+<td colspan="2"></td>
+<td>040</td>
 <td colspan="2">Развитие инфраструктуры специальных экономических зон, индустриальных зон, индустриальных парков</td>
 <td>57 059</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Поддержка предпринимательской деятельности и защита конкуренции</td>
 <td>2 725 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>371</td>
 <td colspan="2"></td>
+<td colspan="2">371</td>
+<td></td>
 <td colspan="2">Управление энергетики и коммунального хозяйства города республиканского значения, столицы</td>
 <td>10 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">020</td>
+<td colspan="2"></td>
+<td>020</td>
 <td colspan="2">Развитие индустриальной инфраструктуры в рамках Государственной программы поддержки и развития бизнеса &quot;Дорожная карта бизнеса-2025&quot;</td>
 <td>10 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>393</td>
 <td colspan="2"></td>
+<td colspan="2">393</td>
+<td></td>
 <td colspan="2">Управление предпринимательства и индустриально-инновационного развития города республиканского значения, столицы</td>
 <td>2 715 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Поддержка частного предпринимательства в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса-2025»</td>
 <td>150 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">008</td>
+<td colspan="2"></td>
+<td>008</td>
 <td colspan="2">Поддержка предпринимательской деятельности</td>
 <td>160 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">017</td>
+<td colspan="2"></td>
+<td>017</td>
 <td colspan="2">Субсидирование процентной ставки по кредитам в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса-2025»</td>
 <td>2 100 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">018</td>
+<td colspan="2"></td>
+<td>018</td>
 <td colspan="2">Частичное гарантирование кредитов малому и среднему бизнесу в рамках Государственной программы поддержки и развития бизнеса &quot;Дорожная карта бизнеса-2025&quot;</td>
 <td>200 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">027</td>
+<td colspan="2"></td>
+<td>027</td>
 <td colspan="2">Частичное гарантирование по микрокредитам в рамках Государственной программы развития продуктивной занятости и массового предпринимательства на 2017 – 2021 годы «Еңбек»</td>
 <td>50 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">082</td>
+<td colspan="2"></td>
+<td>082</td>
 <td colspan="2">Предоставление государственных грантов молодым предпринимателям для реализации новых бизнес-идей в рамках Государственной программы поддержки и развития бизнеса «Дорожная карта бизнеса-2025»</td>
 <td>55 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие</td>
-<td>11 313 224</td>
+<td>12 313 224</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>123</td>
 <td colspan="2"></td>
+<td colspan="2">123</td>
+<td></td>
 <td colspan="2">Аппарат акима района в городе</td>
 <td>2 660 779</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>2 660 779</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>348</td>
 <td colspan="2"></td>
+<td colspan="2">348</td>
+<td></td>
 <td colspan="2">Управление пассажирского транспорта и автомобильных дорог города республиканского значения, столицы</td>
 <td>1 486 949</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>1 486 949</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>353</td>
 <td colspan="2"></td>
+<td colspan="2">353</td>
+<td></td>
 <td colspan="2">Управление здравоохранения города республиканского значения, столицы</td>
 <td>4 281 819</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>4 281 819</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>356</td>
 <td colspan="2"></td>
+<td colspan="2">356</td>
+<td></td>
 <td colspan="2">Управление финансов города республиканского значения, столицы</td>
-<td>1 700 000</td>
+<td>2 700 000</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">013</td>
+<td colspan="2"></td>
+<td>013</td>
 <td colspan="2">Резерв местного исполнительного органа города республиканского значения, столицы</td>
-<td>1 700 000</td>
+<td>2 700 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>357</td>
 <td colspan="2"></td>
+<td colspan="2">357</td>
+<td></td>
 <td colspan="2">Управление экономики и бюджетного планирования города республиканского значения, столицы</td>
 <td>160 867</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Разработка или корректировка, а также проведение необходимых экспертиз технико-экономических обоснований местных бюджетных инвестиционных проектов и конкурсных документаций проектов государственно-частного партнерства, концессионных проектов, консультативное сопровождение проектов государственно-частного партнерства и концессионных проектов</td>
 <td>128 867</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>32 000</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>360</td>
 <td colspan="2"></td>
+<td colspan="2">360</td>
+<td></td>
 <td colspan="2">Управление образования города республиканского значения, столицы</td>
 <td>340 185</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>340 185</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>381</td>
 <td colspan="2"></td>
+<td colspan="2">381</td>
+<td></td>
 <td colspan="2">Управление физической культуры и спорта города республиканского значения, столицы</td>
 <td>378 188</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">096</td>
+<td colspan="2"></td>
+<td>096</td>
 <td colspan="2">Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>378 188</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>393</td>
 <td colspan="2"></td>
+<td colspan="2">393</td>
+<td></td>
 <td colspan="2">Управление предпринимательства и индустриально-инновационного развития города республиканского значения, столицы</td>
 <td>304 437</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">001</td>
+<td colspan="2"></td>
+<td>001</td>
 <td colspan="2">Услуги по реализации государственной политики на местном уровне в области развития предпринимательства и индустриально-инновационного развития</td>
 <td>266 948</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">003</td>
+<td colspan="2"></td>
+<td>003</td>
 <td colspan="2">Капитальные расходы государственного органа</td>
 <td>37 489</td>
 </tr>
 <tr>
-<td colspan="2">14</td>
-<td></td>
-<td></td>
+<td>14</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Обслуживание долга</td>
 <td>953 747</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Обслуживание долга</td>
 <td>953 747</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>356</td>
 <td colspan="2"></td>
+<td colspan="2">356</td>
+<td></td>
 <td colspan="2">Управление финансов города республиканского значения, столицы</td>
 <td>953 747</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">005</td>
+<td colspan="2"></td>
+<td>005</td>
 <td colspan="2">Обслуживание долга местных исполнительных органов</td>
 <td>952 702</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">018</td>
+<td colspan="2"></td>
+<td>018</td>
 <td colspan="2">Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из республиканского бюджета</td>
 <td>1 045</td>
 </tr>
 <tr>
-<td colspan="2">15</td>
-<td></td>
-<td></td>
+<td>15</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Трансферты</td>
 <td>1 329 008</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Трансферты</td>
 <td>1 329 008</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>356</td>
 <td colspan="2"></td>
+<td colspan="2">356</td>
+<td></td>
 <td colspan="2">Управление финансов города республиканского значения, столицы</td>
 <td>1 329 008</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">006</td>
+<td colspan="2"></td>
+<td>006</td>
 <td colspan="2">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
 <td>7 352</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">053</td>
+<td colspan="2"></td>
+<td>053</td>
 <td colspan="2">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
 <td>1 321 656</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">III. Чистое бюджетное кредитование</td>
 <td>-7 608 662</td>
 </tr>
 <tr>
 <td colspan="8">Функциональная группа Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td rowspan="4">
+
+Сумма, тысяч тенге
+</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="6">Функциональная подгруппа</td>
+<td></td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="5">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="6">Администратор бюджетных программ</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
 <td colspan="4">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджетные кредиты</td>
 <td>2 391 338</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищно-коммунальное хозяйство</td>
-<td>1 575 226</td>
+<td>1575226</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>1</td>
 <td></td>
+<td>1</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жилищное хозяйство</td>
 <td>1 575 226</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>383</td>
+<td></td>
+<td colspan="2">383</td>
 <td colspan="2"></td>
 <td colspan="2">Управление жилья и жилищной инспекции города республиканского значения, столицы</td>
 <td>1 575 226</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
 <td colspan="2">081</td>
 <td colspan="2">Кредитование на проведение капитального ремонта общего имущества объектов кондоминиумов</td>
 <td>1 575 226</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Прочие</td>
 <td>816 112</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>3</td>
 <td></td>
+<td>3</td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Поддержка предпринимательской деятельности и защита конкуренции</td>
 <td>816 112</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>393</td>
+<td></td>
+<td colspan="2">393</td>
 <td colspan="2"></td>
 <td colspan="2">Управление предпринимательства и индустриально-инновационного развития города республиканского значения, столицы</td>
 <td>816 112</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
 <td colspan="2">069</td>
 <td colspan="2">Кредитование на содействие развитию предпринимательства в городе республиканского значения</td>
 <td>816 112</td>
@@ -3453,75 +3455,75 @@
 </td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="6">Функциональная подгруппа</td>
+<td></td>
+<td colspan="7">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="2"></td>
 <td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="4">Программа</td>
+<td colspan="2"></td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Приобретение финансовых активов</td>
 <td>13 146 937</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td></td>
-<td></td>
+<td>13</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие</td>
 <td>13 146 937</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>9</td>
 <td></td>
+<td colspan="2">9</td>
 <td colspan="2"></td>
+<td></td>
 <td colspan="2">Прочие</td>
 <td>13 146 937</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td>393</td>
 <td colspan="2"></td>
+<td colspan="2">393</td>
+<td></td>
 <td colspan="2">Управление предпринимательства и индустриально-инновационного развития города республиканского значения, столицы</td>
 <td>13 146 937</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
-<td></td>
-<td></td>
-<td colspan="2">065</td>
+<td colspan="2"></td>
+<td>065</td>
 <td colspan="2">Формирование или увеличение уставного капитала юридических лиц</td>
 <td>13 146 937</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">V. Дефицит (профицит) бюджета</td>
-<td>17 455 991</td>
+<td>-40 234 009</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
 <td></td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
 <td colspan="2">VI. Финансирование дефицита (использование профицита) бюджета</td>
-<td>-17 455 991</td>
+<td>40 234 009</td>
 </tr>
 </table>
 
