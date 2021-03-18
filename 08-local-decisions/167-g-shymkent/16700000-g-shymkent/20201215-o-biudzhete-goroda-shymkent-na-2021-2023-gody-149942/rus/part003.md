@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
+source: https://zan.gov.kz/client/#!/doc/149942/rus/18.03.2021
 ---
 
 > *Приложение 3 к*  
@@ -2617,39 +2617,40 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 </table>
 
-> *Приложение 5 к*  
-> *решению маслихата*  
-> *города Шымкент от*  
-> *15 декабря*  
-> *2020 года № 72/651-6c*
+> *Приложение 5*  
+> *к решению маслихата*  
+> *города Шымкент*  
+> *от 15 декабря 2020 года*  
+> *№72/651-6с*
 
 ## Бюджетные программы районов в городе на 2021-2023 годы
 
+> *Сноска. Приложение 5 в редакции решения маслихата города Шымкент от 18.03.2021 № 3/13-VII (вводится в действие с 01.01.2021).*
+
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
-<td>Наименование</td>
+<td colspan="7">Функциональная группа Наименование</td>
 <td rowspan="4">2021 год</td>
 <td rowspan="4">2022 год</td>
 <td rowspan="4">2023 год</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="4">Функциональная подгруппа</td>
+<td colspan="2"></td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="4">1</td>
+<td colspan="6">1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
@@ -2657,128 +2658,158 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Всего</td>
-<td>13 415 247</td>
+<td>14 808 499</td>
 <td>9 498 489</td>
 <td>7 592 956</td>
 </tr>
 <tr>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>778 161</td>
+<td>1 043 264</td>
 <td>593 764</td>
 <td>600 628</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>778 161</td>
+<td>1 043 264</td>
 <td>593 764</td>
 <td>600 628</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе</td>
-<td>778 161</td>
+<td>1 043 264</td>
 <td>593 764</td>
 <td>600 628</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе</td>
-<td>778 161</td>
+<td>1 013 400</td>
 <td>593 764</td>
 <td>600 628</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
-<td>159 677</td>
+<td>193 065</td>
 <td>130 588</td>
 <td>131 400</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
-<td>168 691</td>
+<td>284 232</td>
 <td>142 351</td>
 <td>143 983</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
-<td>272 942</td>
+<td>319 550</td>
 <td>171 009</td>
 <td>172 874</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
-<td>176 851</td>
+<td>216 553</td>
 <td>149 816</td>
 <td>152 371</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>022</td>
+<td>Капитальные расходы государственного органа</td>
+<td>29 864</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Аль-Фарабийский район</td>
+<td>21 964</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Енбекшинский район</td>
+<td>7 900</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>07</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>10 203 500</td>
+<td>11 331 649</td>
 <td>6 687 296</td>
 <td>6 687 296</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>10 203 500</td>
+<td>11 331 649</td>
 <td>6 687 296</td>
 <td>6 687 296</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе</td>
-<td>10 203 500</td>
+<td>11 331 649</td>
 <td>6 687 296</td>
 <td>6 687 296</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>6 684 187</td>
@@ -2787,8 +2818,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
 <td>1 697 293</td>
@@ -2797,8 +2828,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
 <td>1 571 872</td>
@@ -2807,8 +2838,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
 <td>1 742 116</td>
@@ -2817,8 +2848,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
 <td>1 672 906</td>
@@ -2827,8 +2858,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
 <td>101 200</td>
@@ -2837,8 +2868,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
 <td>43 000</td>
@@ -2847,8 +2878,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
 <td>12 000</td>
@@ -2857,8 +2888,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
 <td>16 700</td>
@@ -2867,8 +2898,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
 <td>29 500</td>
@@ -2877,58 +2908,58 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>3 418 113</td>
+<td>4 546 262</td>
 <td>2 274 365</td>
 <td>2 274 365</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
-<td>937 526</td>
+<td>1 183 977</td>
 <td>569 154</td>
 <td>569 154</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
-<td>982 566</td>
+<td>1 177 756</td>
 <td>616 835</td>
 <td>616 835</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
-<td>697 380</td>
+<td>1 209 810</td>
 <td>551 380</td>
 <td>551 380</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
-<td>800 641</td>
+<td>974 719</td>
 <td>536 996</td>
 <td>536 996</td>
 </tr>
 <tr>
 <td>08</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>47 505</td>
@@ -2937,8 +2968,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Деятельность в области культуры</td>
 <td>47 505</td>
@@ -2947,8 +2978,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе</td>
 <td>47 505</td>
@@ -2957,8 +2988,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>47 505</td>
@@ -2967,8 +2998,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
 <td>16 479</td>
@@ -2977,8 +3008,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
 <td>10 840</td>
@@ -2987,8 +3018,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
 <td>9 593</td>
@@ -2997,8 +3028,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
 <td>10 593</td>
@@ -3007,18 +3038,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Прочие</td>
-<td>2 386 081</td>
-<td>2 155 029</td>
-<td>240 136</td>
-</tr>
-<tr>
-<td></td>
-<td>9</td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
 <td>2 386 081</td>
@@ -3027,8 +3048,18 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
 <td></td>
-<td>123</td>
+<td>Прочие</td>
+<td>2 386 081</td>
+<td>2 155 029</td>
+<td>240 136</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе</td>
 <td>2 386 081</td>
@@ -3037,8 +3068,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>096</td>
 <td>Выполнение государственных обязательств по проектам государственно-частного партнерства</td>
 <td>2 386 081</td>
@@ -3047,8 +3078,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Абайский район</td>
 <td>470 303</td>
@@ -3057,8 +3088,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Аль-Фарабийский район</td>
 <td>795 212</td>
@@ -3067,8 +3098,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Енбекшинский район</td>
 <td>456 794</td>
@@ -3077,8 +3108,8 @@ source: https://zan.gov.kz/client/#!/doc/149942/rus/15.12.2020
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Каратауский район</td>
 <td>663 772</td>
