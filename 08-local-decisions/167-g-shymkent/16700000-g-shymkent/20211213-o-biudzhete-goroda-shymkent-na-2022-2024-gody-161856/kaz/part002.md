@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/161856/kaz/25.11.2022
+source: https://zan.gov.kz/client/#!/doc/161856/kaz/22.12.2022
 ---
 
 > *Шымкент қаласы*  
