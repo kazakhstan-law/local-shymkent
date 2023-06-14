@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
+source: https://zan.gov.kz/client/#!/doc/175831/kaz/14.06.2023
 ---
 
 > *Шымкент қаласы*  
@@ -2853,11 +2853,12 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 
 ## Бюджетные программы районов в городе на 2023-2025 годы
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 03.04.2023 № 2/12-VIII (01.01.2023 бастап күшіне енеді) шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 03.04.2023 № 2/12-VIII (01.01.2023 бастап күшіне енеді); 14.06.2023 № 4/29-VIII (01.01.2023 бастап күшіне енеді) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа Наименование</td>
+<td colspan="4">Функциональная группа</td>
+<td>Наименование</td>
 <td rowspan="4">2023 год</td>
 <td rowspan="4">2024 год</td>
 <td rowspan="4">2025 год</td>
@@ -2890,7 +2891,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>17 301 795</td>
+<td>18 066 208</td>
 <td>17 890 342</td>
 <td>17 873 261</td>
 </tr>
@@ -2900,7 +2901,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>1 549 401</td>
+<td>1 582 555</td>
 <td>1 382 872</td>
 <td>1 447 652</td>
 </tr>
@@ -2910,7 +2911,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>1 549 401</td>
+<td>1 582 555</td>
 <td>1 382 872</td>
 <td>1 447 652</td>
 </tr>
@@ -2920,7 +2921,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан әкімінің аппараты</td>
-<td>1 549 401</td>
+<td>1 582 555</td>
 <td>1 382 872</td>
 <td>1 447 652</td>
 </tr>
@@ -2930,7 +2931,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>1 481 649</td>
+<td>1 514 803</td>
 <td>1 382 872</td>
 <td>1 447 652</td>
 </tr>
@@ -2940,7 +2941,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Абай ауданы</td>
-<td>268 762</td>
+<td>269 249</td>
 <td>255 902</td>
 <td>270 463</td>
 </tr>
@@ -2950,7 +2951,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Әл-Фараби ауданы</td>
-<td>268 129</td>
+<td>276 840</td>
 <td>275 197</td>
 <td>292 544</td>
 </tr>
@@ -2960,7 +2961,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Еңбекші ауданы</td>
-<td>347 134</td>
+<td>356 044</td>
 <td>323 982</td>
 <td>341 034</td>
 </tr>
@@ -2970,7 +2971,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Қаратау ауданы</td>
-<td>315 582</td>
+<td>323 106</td>
 <td>274 652</td>
 <td>290 472</td>
 </tr>
@@ -2980,7 +2981,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Ауданы Тұран</td>
-<td>282 042</td>
+<td>289 564</td>
 <td>253 139</td>
 <td>253 139</td>
 </tr>
@@ -3020,7 +3021,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>15 213 994</td>
+<td>15 900 116</td>
 <td>16 297 500</td>
 <td>16 297 500</td>
 </tr>
@@ -3030,7 +3031,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Елді-мекендерді абаттандыру</td>
-<td>15 213 994</td>
+<td>15 900 116</td>
 <td>16 297 500</td>
 <td>16 297 500</td>
 </tr>
@@ -3040,7 +3041,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан әкімінің аппараты</td>
-<td>15 213 994</td>
+<td>15 900 116</td>
 <td>16 297 500</td>
 <td>16 297 500</td>
 </tr>
@@ -3070,7 +3071,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>4 603 783</td>
+<td>4 723 783</td>
 <td>10 646 993</td>
 <td>10 646 993</td>
 </tr>
@@ -3090,7 +3091,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Әл-Фараби ауданы</td>
-<td>875 248</td>
+<td>935 248</td>
 <td>2 564 318</td>
 <td>2 564 318</td>
 </tr>
@@ -3120,7 +3121,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Ауданы Тұран</td>
-<td>1 135 875</td>
+<td>1 195 875</td>
 <td></td>
 <td></td>
 </tr>
@@ -3130,7 +3131,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td>010</td>
 <td>Жерлеу орындарын ұстау және туыстары жоқ адамдарды жерлеу</td>
-<td>231 116</td>
+<td>151 950</td>
 <td>193 326</td>
 <td>193 326</td>
 </tr>
@@ -3140,7 +3141,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Абай ауданы</td>
-<td>25 350</td>
+<td></td>
 <td>76 450</td>
 <td>76 450</td>
 </tr>
@@ -3150,7 +3151,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Әл-Фараби ауданы</td>
-<td>53 816</td>
+<td></td>
 <td>41 599</td>
 <td>41 599</td>
 </tr>
@@ -3190,7 +3191,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>10 373 186</td>
+<td>11 018 474</td>
 <td>5 457 181</td>
 <td>5 457 181</td>
 </tr>
@@ -3200,7 +3201,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Абай ауданы</td>
-<td>967 398</td>
+<td>1 164 906</td>
 <td>1 478 244</td>
 <td>1 478 244</td>
 </tr>
@@ -3210,7 +3211,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Әл-Фараби ауданы</td>
-<td>1 466 205</td>
+<td>1 481 600</td>
 <td>1 483 518</td>
 <td>1 483 518</td>
 </tr>
@@ -3240,7 +3241,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Ауданы Тұран</td>
-<td>2 051 795</td>
+<td>2 484 180</td>
 <td></td>
 <td></td>
 </tr>
@@ -3250,7 +3251,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>50 500</td>
+<td>95 637</td>
 <td>44 100</td>
 <td>46 305</td>
 </tr>
@@ -3260,7 +3261,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>50 500</td>
+<td>95 637</td>
 <td>44 100</td>
 <td>46 305</td>
 </tr>
@@ -3270,7 +3271,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан әкімінің аппараты</td>
-<td>50 500</td>
+<td>95 637</td>
 <td>44 100</td>
 <td>46 305</td>
 </tr>
@@ -3280,7 +3281,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td>006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>50 500</td>
+<td>95 637</td>
 <td>44 100</td>
 <td>46 305</td>
 </tr>
@@ -3290,7 +3291,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Абай ауданы</td>
-<td>10 000</td>
+<td>20 500</td>
 <td>11 025</td>
 <td>11 576</td>
 </tr>
@@ -3300,7 +3301,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Әл-Фараби ауданы</td>
-<td>10 000</td>
+<td>19 563</td>
 <td>11 025</td>
 <td>11 576</td>
 </tr>
@@ -3310,7 +3311,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Еңбекші ауданы</td>
-<td>10 000</td>
+<td>15 864</td>
 <td>11 025</td>
 <td>11 576</td>
 </tr>
@@ -3320,7 +3321,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Қаратау ауданы</td>
-<td>10 000</td>
+<td>19 605</td>
 <td>11 025</td>
 <td>11 576</td>
 </tr>
@@ -3330,7 +3331,7 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Ауданы Тұран</td>
-<td>10 500</td>
+<td>20 105</td>
 <td></td>
 <td></td>
 </tr>
@@ -3450,9 +3451,9 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td></td>
 <td></td>
 <td>Абай ауданы</td>
-<td>75 633</td>
-<td>78 658</td>
-<td>81 804</td>
+<td>8 404</td>
+<td>8 740</td>
+<td>9 089</td>
 </tr>
 <tr>
 <td></td>
@@ -3473,5 +3474,15 @@ source: https://zan.gov.kz/client/#!/doc/175831/kaz/03.04.2023
 <td>81 443</td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Ауданы Тұран</td>
+<td>67 229</td>
+<td>69 918</td>
+<td>72 715</td>
 </tr>
 </table>
