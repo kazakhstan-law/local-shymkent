@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
+source: https://zan.gov.kz/client/#!/doc/190099/kaz/04.05.2024
 ---
 
 > *Шымкент қаласы*  
@@ -2887,7 +2887,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 
 ## 2024-2026 жылдарға арналған қаладағы аудандардың бюджеттік бағдарламалары
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 19.03.2024 № 14/116-VIII (01.01.2024 бастап күшіне енеді) шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 19.03.2024 № 14/116-VIII (01.01.2024 бастап күшіне енеді); 04.05.2024 № 16/142-VIII (01.01.2024 бастап күшіне енеді) шешімдерімен.*
 
 <table>
 <tr>
@@ -2925,7 +2925,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Барлығы</td>
-<td>28 677 245</td>
+<td>24 003 789</td>
 <td>10 208 428</td>
 <td>10 148 516</td>
 </tr>
@@ -3045,7 +3045,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>24 244 649</td>
+<td>22 071 193</td>
 <td>8 384 996</td>
 <td>8 384 996</td>
 </tr>
@@ -3055,7 +3055,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді абаттандыру</td>
-<td>24 244 649</td>
+<td>22 071 193</td>
 <td>8 384 996</td>
 <td>8 384 996</td>
 </tr>
@@ -3065,7 +3065,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>24 244 649</td>
+<td>22 071 193</td>
 <td>8 384 996</td>
 <td>8 384 996</td>
 </tr>
@@ -3175,7 +3175,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>14 689 468</td>
+<td>12 516 012</td>
 <td>5 609 048</td>
 <td>5 609 048</td>
 </tr>
@@ -3185,7 +3185,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Абай ауданы</td>
-<td>1 658 639</td>
+<td>1 167 223</td>
 <td>1 130 000</td>
 <td>1 130 000</td>
 </tr>
@@ -3195,7 +3195,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>3 115 605</td>
+<td>2 998 401</td>
 <td>1 146 458</td>
 <td>1 146 458</td>
 </tr>
@@ -3205,7 +3205,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>3 225 627</td>
+<td>3 025 242</td>
 <td>1 089 800</td>
 <td>1 089 800</td>
 </tr>
@@ -3215,7 +3215,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>3 195 322</td>
+<td>2 624 655</td>
 <td>1 112 790</td>
 <td>1 112 790</td>
 </tr>
@@ -3225,7 +3225,7 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұран ауданы</td>
-<td>3 494 275</td>
+<td>2 700 491</td>
 <td>1 130 000</td>
 <td>1 130 000</td>
 </tr>
@@ -3318,96 +3318,6 @@ source: https://zan.gov.kz/client/#!/doc/190099/kaz/19.03.2024
 <td>20 000</td>
 <td>11 025</td>
 <td>11 466</td>
-</tr>
-<tr>
-<td>12</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Көлiк және коммуникация</td>
-<td>2 500 000</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Автомобиль көлiгi</td>
-<td>2 500 000</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>2 500 000</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">045</td>
-<td colspan="2">Елді-мекендер көшелеріндегі автомобиль жолдарын ағымдағы жөндеу</td>
-<td>2 500 000</td>
-<td>0</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>500 000</td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>13</td>
