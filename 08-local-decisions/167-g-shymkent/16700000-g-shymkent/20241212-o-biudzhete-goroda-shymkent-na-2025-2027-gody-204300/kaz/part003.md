@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
+source: https://zan.gov.kz/client/#!/doc/204300/kaz/17.09.2025
 ---
 
 > *Шымкент қаласы*  
@@ -2937,7 +2937,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 
 ## 2025-2027 жылдарға арналған қаладағы аудандардың бюджеттік бағдарламалары
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 28.03.2025 № 25/223-VIII (01.01.2025 бастап күшіне енеді) шешімімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 28.03.2025 № 25/223-VIII (01.01.2025 бастап күшіне енеді); 17.09.2025 № 29/258-VIII (01.01.2025 бастап күшіне енеді) шешімдерімен.*
 
 <table>
 <tr>
@@ -2963,11 +2963,11 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="7">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
+<th colspan="7">1</th>
+<th colspan="2">2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
 </tr>
 <tr>
 <td></td>
@@ -2975,7 +2975,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Барлығы</td>
-<td>34 578 696</td>
+<td>35 791 125</td>
 <td>19 099 237</td>
 <td>19 472 660</td>
 </tr>
@@ -2985,7 +2985,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>4 881 720</td>
+<td>5 107 116</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
@@ -2995,7 +2995,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>4 881 720</td>
+<td>5 107 116</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
@@ -3005,7 +3005,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>4 881 720</td>
+<td>5 107 116</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
@@ -3015,7 +3015,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Қаладағы аудан әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>2 064 799</td>
+<td>2 195 157</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
@@ -3025,7 +3025,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Абай ауданы</td>
-<td>358 895</td>
+<td>373 612</td>
 <td>347 485</td>
 <td>349 186</td>
 </tr>
@@ -3035,7 +3035,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>441 824</td>
+<td>486 482</td>
 <td>417 905</td>
 <td>421 755</td>
 </tr>
@@ -3045,7 +3045,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>444 513</td>
+<td>462 805</td>
 <td>431 233</td>
 <td>440 831</td>
 </tr>
@@ -3055,7 +3055,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>406 377</td>
+<td>459 068</td>
 <td>408 384</td>
 <td>413 275</td>
 </tr>
@@ -3073,19 +3073,9 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">032</td>
-<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>2 816 921</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>473 544</td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>2 620</td>
 <td></td>
 <td></td>
 </tr>
@@ -3095,7 +3085,37 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>839 413</td>
+<td>2 620</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">032</td>
+<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td>2 909 339</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Абай ауданы</td>
+<td>465 623</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Әл-Фараби ауданы</td>
+<td>868 968</td>
 <td></td>
 <td></td>
 </tr>
@@ -3105,7 +3125,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>511 578</td>
+<td>541 133</td>
 <td></td>
 <td></td>
 </tr>
@@ -3115,7 +3135,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>365 708</td>
+<td>378 802</td>
 <td></td>
 <td></td>
 </tr>
@@ -3125,7 +3145,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұран ауданы</td>
-<td>626 678</td>
+<td>654 813</td>
 <td></td>
 <td></td>
 </tr>
@@ -3135,7 +3155,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>29 591 976</td>
+<td>30 589 960</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
@@ -3145,7 +3165,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Елді-мекендерді абаттандыру</td>
-<td>29 591 976</td>
+<td>30 589 960</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
@@ -3155,7 +3175,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>29 591 976</td>
+<td>30 589 960</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
@@ -3165,7 +3185,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>47 139</td>
+<td>68 724</td>
 <td>34 217</td>
 <td>35 928</td>
 </tr>
@@ -3194,18 +3214,8 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>19 846</td>
+<td>30 603</td>
 <td>10 338</td>
 <td>10 855</td>
 </tr>
@@ -3215,7 +3225,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұран ауданы</td>
-<td>4 551</td>
+<td>15 379</td>
 <td></td>
 <td></td>
 </tr>
@@ -3225,7 +3235,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>17 555 180</td>
+<td>19 165 843</td>
 <td>6 969 422</td>
 <td>7 310 131</td>
 </tr>
@@ -3235,7 +3245,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Абай ауданы</td>
-<td>3 355 820</td>
+<td>3 613 042</td>
 <td>1 309 700</td>
 <td>1 374 946</td>
 </tr>
@@ -3245,7 +3255,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>3 528 845</td>
+<td>3 853 849</td>
 <td>1 319 443</td>
 <td>1 383 090</td>
 </tr>
@@ -3255,7 +3265,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>3 418 885</td>
+<td>3 563 695</td>
 <td>1 342 331</td>
 <td>1 408 684</td>
 </tr>
@@ -3265,7 +3275,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>3 667 129</td>
+<td>4 210 875</td>
 <td>1 444 132</td>
 <td>1 514 567</td>
 </tr>
@@ -3275,7 +3285,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұран ауданы</td>
-<td>3 584 501</td>
+<td>3 924 382</td>
 <td>1 553 816</td>
 <td>1 628 844</td>
 </tr>
@@ -3285,7 +3295,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>11 989 657</td>
+<td>11 355 393</td>
 <td>10 000 000</td>
 <td>10 000 000</td>
 </tr>
@@ -3295,7 +3305,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Абай ауданы</td>
-<td>2 542 131</td>
+<td>2 566 358</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
@@ -3305,7 +3315,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>1 851 884</td>
+<td>1 811 184</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
@@ -3315,7 +3325,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>2 036 161</td>
+<td>1 897 295</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
@@ -3325,7 +3335,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратау ауданы</td>
-<td>2 704 621</td>
+<td>2 286 810</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
@@ -3335,7 +3345,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұран ауданы</td>
-<td>2 854 860</td>
+<td>2 793 746</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
@@ -3345,7 +3355,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>105 000</td>
+<td>94 049</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
@@ -3355,7 +3365,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>105 000</td>
+<td>94 049</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
@@ -3365,7 +3375,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2">123</td>
 <td colspan="2"></td>
 <td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>105 000</td>
+<td>94 049</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
@@ -3375,7 +3385,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2">006</td>
 <td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>105 000</td>
+<td>94 049</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
@@ -3385,7 +3395,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Абай ауданы</td>
-<td>21 000</td>
+<td>18 675</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
@@ -3395,7 +3405,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әл-Фараби ауданы</td>
-<td>21 000</td>
+<td>14 627</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
@@ -3405,7 +3415,7 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/28.03.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Еңбекші ауданы</td>
-<td>21 000</td>
+<td>18 747</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
