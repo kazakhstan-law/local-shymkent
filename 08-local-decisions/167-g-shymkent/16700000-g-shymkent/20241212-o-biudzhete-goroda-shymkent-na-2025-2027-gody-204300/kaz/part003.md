@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/204300/kaz/17.09.2025
+source: https://zan.gov.kz/client/#!/doc/204300/kaz/12.12.2025
 ---
 
 > *Шымкент қаласы*  
@@ -2929,513 +2929,512 @@ source: https://zan.gov.kz/client/#!/doc/204300/kaz/17.09.2025
 </tr>
 </table>
 
-> *Шымкент қаласы*  
-> *мәслихатының 2024 жылғы*  
-> *12 желтоқсандағы*  
-> *№ 23/195-VIII*  
-> *шешіміне 5-қосымша*
+> *Шымкент қаласы мәслихатының*  
+> *2024 жылғы 12 желтоқсандағы*  
+> *№ 23/195-VIII шешіміне*  
+> *5-қосымша*
 
 ## 2025-2027 жылдарға арналған қаладағы аудандардың бюджеттік бағдарламалары
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 28.03.2025 № 25/223-VIII (01.01.2025 бастап күшіне енеді); 17.09.2025 № 29/258-VIII (01.01.2025 бастап күшіне енеді) шешімдерімен.*
+> *Ескерту. 5-қосымша жаңа редакцияда - Шымкент қаласы мәслихатының 28.03.2025 № 25/223-VIII (01.01.2025 бастап күшіне енеді); 17.09.2025 № 29/258-VIII (01.01.2025 бастап күшіне енеді); 12.12.2025 № 31/276-VIII (01.01.2025 бастап күшіне енеді) шешімдерімен.*
 
 <table>
 <tr>
-<td colspan="8">Функционалдық топ</td>
+<td colspan="4">Функционалдық топ</td>
 <td>Атауы</td>
 <td rowspan="4">2025 жыл</td>
 <td rowspan="4">2026 жыл</td>
 <td rowspan="4">2027 жыл</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="7">Кіші функция</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3">Бағдарлама</td>
-</tr>
-<tr>
-<th colspan="7">1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td></td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Барлығы</td>
-<td>35 791 125</td>
+<td></td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="4">1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Барлығы</td>
+<td>34 890 059</td>
 <td>19 099 237</td>
 <td>19 472 660</td>
 </tr>
 <tr>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>5 107 116</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>5 192 516</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>5 107 116</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>5 192 516</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>5 107 116</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан әкімінің аппараты</td>
+<td>5 192 516</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">001</td>
-<td colspan="2">Қаладағы аудан әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>2 195 157</td>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Қаладағы аудан әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>2 400 170</td>
 <td>1 985 348</td>
 <td>2 010 851</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>373 612</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауданы</td>
+<td>426 544</td>
 <td>347 485</td>
 <td>349 186</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>486 482</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>511 065</td>
 <td>417 905</td>
 <td>421 755</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td>462 805</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Еңбекші ауданы</td>
+<td>495 609</td>
 <td>431 233</td>
 <td>440 831</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>459 068</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>509 339</td>
 <td>408 384</td>
 <td>413 275</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>413 190</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>457 613</td>
 <td>380 341</td>
 <td>385 804</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">022</td>
-<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>2 620</td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>Мемлекеттік органның күрделі шығыстары</td>
+<td>2 589</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>2 589</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>2 620</td>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
+<td>2 789 757</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">032</td>
-<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td>2 909 339</td>
 <td></td>
 <td></td>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
+<td>Абай ауданы</td>
 <td>465 623</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>868 968</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>845 512</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td>541 133</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Еңбекші ауданы</td>
+<td>487 913</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>378 802</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>363 892</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>654 813</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>626 817</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td>07</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>30 589 960</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>29 609 088</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Елді-мекендерді абаттандыру</td>
-<td>30 589 960</td>
+<td>3</td>
+<td></td>
+<td></td>
+<td>Елді-мекендерді абаттандыру</td>
+<td>29 609 088</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>30 589 960</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан әкімінің аппараты</td>
+<td>29 609 088</td>
 <td>17 003 639</td>
 <td>17 346 059</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>68 724</td>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>49 570</td>
 <td>34 217</td>
 <td>35 928</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>16 662</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауданы</td>
+<td>1 954</td>
 <td>17 496</td>
 <td>18 370</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>6 080</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>2 112</td>
 <td>6 383</td>
 <td>6 703</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>30 603</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>32 125</td>
 <td>10 338</td>
 <td>10 855</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>15 379</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>13 379</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>19 165 843</td>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>19 101 853</td>
 <td>6 969 422</td>
 <td>7 310 131</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>3 613 042</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауданы</td>
+<td>3 632 244</td>
 <td>1 309 700</td>
 <td>1 374 946</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>3 853 849</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>3 870 403</td>
 <td>1 319 443</td>
 <td>1 383 090</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td>3 563 695</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Еңбекші ауданы</td>
+<td>3 574 168</td>
 <td>1 342 331</td>
 <td>1 408 684</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>4 210 875</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>4 278 780</td>
 <td>1 444 132</td>
 <td>1 514 567</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>3 924 382</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>3 746 258</td>
 <td>1 553 816</td>
 <td>1 628 844</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>11 355 393</td>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>10 457 665</td>
 <td>10 000 000</td>
 <td>10 000 000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
-<td>2 566 358</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауданы</td>
+<td>2 409 427</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
-<td>1 811 184</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
+<td>1 666 209</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
-<td>1 897 295</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Еңбекші ауданы</td>
+<td>1 649 175</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>2 286 810</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>2 132 167</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>2 793 746</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>2 600 687</td>
 <td>2 000 000</td>
 <td>2 000 000</td>
 </tr>
 <tr>
 <td>08</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>94 049</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>88 455</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>94 049</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Мәдениет саласындағы қызмет</td>
+<td>88 455</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан әкімінің аппараты</td>
-<td>94 049</td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан әкімінің аппараты</td>
+<td>88 455</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">006</td>
-<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>94 049</td>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>88 455</td>
 <td>110 250</td>
 <td>115 750</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Абай ауданы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Абай ауданы</td>
 <td>18 675</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Әл-Фараби ауданы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Әл-Фараби ауданы</td>
 <td>14 627</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Еңбекші ауданы</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Еңбекші ауданы</td>
 <td>18 747</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қаратау ауданы</td>
-<td>21 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қаратау ауданы</td>
+<td>17 794</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұран ауданы</td>
-<td>21 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тұран ауданы</td>
+<td>18 612</td>
 <td>22 050</td>
 <td>23 150</td>
 </tr>
