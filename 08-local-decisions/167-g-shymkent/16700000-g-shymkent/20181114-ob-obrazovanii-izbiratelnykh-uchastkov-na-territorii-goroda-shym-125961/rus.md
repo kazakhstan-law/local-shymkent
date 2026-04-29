@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/125961/rus/02.02.2026
+source: https://zan.gov.kz/client/#!/doc/125961/rus/29.04.2026
 ---
 
 # Об образовании избирательных участков на территории города Шымкент
